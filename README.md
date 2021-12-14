@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acassiodosanjos
-- 👀 I’m interested in Test Automation, python and BDD.
+- 👀 I’m interested in Test Automation, python and API testing.
 - 🌱 All projects here and study purposes and to contribute to whoever is interested in test automation too.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
